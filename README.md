@@ -25,6 +25,7 @@ A chrome dino cheat. Just made for fun!
 - Kill Player
 - Autoplayer
 - Set Gravity
+
 *19 Cheats, just a few more until I release*
 
 ## What I plan to add
