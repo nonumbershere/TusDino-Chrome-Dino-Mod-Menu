@@ -12,7 +12,7 @@ A chrome dino cheat. Just made for fun!
 - Blocky Jump
 - Airjump
 - High Jump
-- Fy
+- Fly
 - Set Score Speed
 - Add Cloud
 - Remove Cloud
@@ -29,11 +29,11 @@ A chrome dino cheat. Just made for fun!
 *19 Cheats, just a few more until I release*
 
 ## What I plan to add
-- Gravity cheats
-- Graphics cheats (Ability to show squares on the chrome dino, for example ESP)
-- Airjump (If I find a way)
-- Phase
-- AI Player
+- ~Gravity cheats~ **Completed**
+- ~Graphics cheats (Ability to show squares on the chrome dino, for example ESP)~ **Completed**
+- ~Airjump (If I find a way)~ **Completed**
+- ~Phase~ **Completed**
+- ~AI Player~ **Completed**
 
 *And more, if you have any ideas you can leave them in the [Discord](https://discord.gg/6eaDrx5J9s)*
 ## Images
