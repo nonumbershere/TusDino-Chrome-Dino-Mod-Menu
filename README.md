@@ -1,47 +1,54 @@
-# TusDino
-A chrome dino cheat. Just made for fun!
-## Links to stay updated
-- [Twitter](https://twitter.com/LapideDev) (I don't post that often)
-- [Discord](https://discord.gg/6eaDrx5J9s) (I don't post that often)
-- [YouTube](https://www.youtube.com/channel/UCRA3KXViuDmsmfuP0RF45_w) (I don't post that often)
+# TusDino Beta
+TusDino is an advanced userscript chrome dino cheat that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
-## What I have so far
-- Set Score
-- No Cip
-- Fast Fall
-- Blocky Jump
-- Airjump
-- High Jump
-- Fly
-- Set Score Speed
-- Add Cloud
-- Remove Cloud
-- Remove All Clouds
-- Remove Near Obstacles
-- Remove Obstacle
-- Remove Obstace
-- Add Obstacle
-- Set Speed
-- Kill Player
-- Autoplayer
-- Set Gravity
+[![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/) [![Github](https://img.shields.io/github/downloads/nonumbershere/TusDino/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/nonumbershere/TusDino/releases/latest)
 
-*19 Cheats, just a few more until I release*
+## Installation Insructions
+- Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
+- Download the script from [Github](https://github.com/nonumbershere/TusDino/raw/main/tusdino.user.js) or [GreasyFork](), Github is recommended since it might have a newer update than GreasyFork.
+- If you see the script on TamperMonkey, it means you did it correctly. Congrats!
+- *If you don't see the script then try to redo the Installation process*
 
-## What I plan to add
-- ~Gravity cheats~ **Completed**
-- ~Graphics cheats (Ability to show squares on the chrome dino, for example ESP)~ **Completed**
-- ~Airjump (If I find a way)~ **Completed**
-- ~Phase~ **Completed**
-- ~AI Player~ **Completed**
+## Socials
+- [Discord](https://discord.gg/6eaDrx5J9s)
+- [Twitter](https://twitter.com/LapideDev)
+- [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
 
-*And more, if you have any ideas you can leave them in the [Discord](https://discord.gg/6eaDrx5J9s)*
+## Features (20+)
+- Kill Player [PLAYER]
+- Autoplayer [PLAYER]
+- Set Gravity [PLAYER]
+- Set Score [GAME]
+- No Clip [GAME]
+- Set Score Speed [GAME]
+- Set Ground Y [GAME]
+- Set Speed [MOVEMENT]
+- Fly [MOVEMENT]
+- High Jump [MOVEMENT]
+- Fast Fall [MOVEMENT]
+- Walk [MOVEMENT]
+- Set Walk Speed [MOVEMENT]
+- Set Fly Speed [MOVEMENT]
+- Blocky Jump [MOVEMENT]
+- Airjump [MOVEMENT]
+- ESP [VISUALS]
+- Tracers [VISUALS]
+- Jump Notifier [VISUALS]
+- Watermark [VISUALS]
+- Add Cloud [VISUALS]
+- Remove Cloud [VISUALS]
+- Remove All Clouds [VISUALS]
+- Remove Near Obstacles [VISUALS]
+- Remove Obstacle [VISUALS]
+- Add Obstacle [VISUALS]
+- Rainbow Background [OTHER]
+- Storm Cloud [OTHER]
+
+*Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
+
 ## Images
-![image](https://user-images.githubusercontent.com/64395933/210430736-a1c48724-9b8f-4179-a57a-6e7f3cbf648c.png)
-![image](https://user-images.githubusercontent.com/64395933/210430745-905124c6-53db-4232-a448-cf7e70c619d2.png)
-![image](https://user-images.githubusercontent.com/64395933/210430757-16a8c2cf-3159-401a-8ddd-841c885e46d8.png)
-
-
-**Coming soon, if I decide to still continue the project.**
-# NOTE
-You have permission to take anything in the code! The cheat is open-source and is meant to be a fun project. I would appreciate if you could learn from the code too.
+![image](https://user-images.githubusercontent.com/64395933/210477235-5be83869-e9be-4743-9b5d-7aa93a66fc6f.png)
+![image](https://user-images.githubusercontent.com/64395933/210477245-68cdb10d-67ee-4d19-bf10-722bc8d42274.png)
+![image](https://user-images.githubusercontent.com/64395933/210477264-9107f3c5-b1ee-40c8-ba1b-54704a8d26d7.png)
+![image](https://user-images.githubusercontent.com/64395933/210477280-9036f7b3-7bcf-40f1-88b8-4edbad1eba95.png)
+![image](https://user-images.githubusercontent.com/64395933/210477293-9212abd5-cfec-4842-baf5-84b6b1519bc2.png)
