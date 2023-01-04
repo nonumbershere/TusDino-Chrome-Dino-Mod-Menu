@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         {BETA} ＴｕｓＤｉｎｏ || BEST CHROME DINO T-REX CHEAT (0.00.1)
+// @name         {BETA} ＴｕｓＤｉｎｏ || BEST CHROME DINO GAME T-REX CHEAT (0.00.1)
 // @namespace    https://github.com/nonumbershere/TusDino
 // @homepage     https://discord.gg/6eaDrx5J9s
 // @version      0.00.1
@@ -18,7 +18,6 @@
 // @match        *://24glo.com/game/dino-play.html
 // @match        *://fivesjs.skipser.com/trex-game/
 // @require      https://cdn.jsdelivr.net/npm/sweetalert2@11
-// @require      https://cdn.jsdelivr.net/npm/toastify-js
 // @icon         https://github.com/nonumbershere/TusDino/blob/main/assets/Logo.png?raw=true
 // @run-at       document-start
 // @grant        unsafeWindow
@@ -28,6 +27,13 @@
 
     // Cheat
     function cont() {
+        function applyScript(src) {
+            var b = document.createElement('script');
+            b.src = src;
+            document.body.append(b);
+            b.remove();
+        }
+        applyScript('https://cdn.jsdelivr.net/npm/toastify-js');
         var oldKeyDown = Runner.instance_.onKeyDown;
         var oldstartJump = Runner.instance_.tRex.startJump;
         // Addons
