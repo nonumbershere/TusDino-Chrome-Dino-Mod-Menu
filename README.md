@@ -3,6 +3,18 @@ TusDino is an advanced userscript chrome dino cheat that works on almost any din
 
 [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/) [![Github](https://img.shields.io/github/downloads/nonumbershere/TusDino/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/nonumbershere/TusDino/releases/latest)
 
+## Supported Sites
+- **https://chromedino.com/** - Preffered Site
+- https://trex-runner.com/
+- https://nointernetgame.com/
+- https://elgoog.im/t-rex/v2/
+- https://www.dinogame.net/
+- https://elgoog.im/t-rex/
+- https://www.dinogame.net/
+- https://elgoog.im/t-rex/
+- https://tuckercraig.com/dino/
+- https://dino-chrome.com/
+
 ## Installation Insructions
 - Get [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or any UserScript manager, but TamperMonkey is recommended.
 - Download the script from [Github](https://github.com/nonumbershere/TusDino/raw/main/tusdino.user.js) or [GreasyFork](), Github is recommended since it might have a newer update than GreasyFork.
