@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         {BETA} ＴｕｓＤｉｎｏ || CHROME DINO T-REX CHEAT (0.00.1)
+// @name         {BETA} ＴｕｓＤｉｎｏ || BEST CHROME DINO T-REX CHEAT (0.00.1)
 // @namespace    https://github.com/nonumbershere/TusDino
 // @homepage     https://discord.gg/6eaDrx5J9s
 // @version      0.00.1
-// @description  THE BEST CHROME DINO CHEAT: SET SPEED, KILL PLAYER
+// @description  THE BEST CHROME DINO CHEAT: SET SPEED, KILL PLAYER, ESP, NO-CLIP, TRACERS +MORE
 // @author       Lapide
 // @license      MIT
 // @match        *://chromedino.com/*
