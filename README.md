@@ -1,4 +1,4 @@
-# TusDino 1.15.1
+# TusDino 0.15.1
 TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
 
 **It would be great if you left a star! It would help with motivation.**
@@ -28,7 +28,7 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 - [Twitter](https://twitter.com/LapideDev)
 - [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
 
-## Features 1.15.1 (40+ Cheats)
+## Features 0.15.1 (40+ Cheats)
 - Player Tab
   - Invisibility
   - Teleport X axis 
