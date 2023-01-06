@@ -5,6 +5,9 @@ TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats a
 
 [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/) [![Github](https://img.shields.io/github/downloads/nonumbershere/TusDino/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/nonumbershere/TusDino/releases/latest)
 
+## About
+TusDino is created to make the game more fun but also as a fun project and when I have free time or out of school, I just add any cheat that I can think of.
+
 ## Supported Sites
 - **https://chromedino.com/** - Preffered Site
 - https://trex-runner.com/
