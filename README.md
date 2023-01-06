@@ -1,5 +1,7 @@
-# TusDino Beta
-TusDino is an advanced userscript chrome dino cheat that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
+# TusDino 1.15.1
+TusDino is the most advanced userscript chrome dino cheat with over 40+ cheats and that works on almost any dino game website. It was created as a fun project. I'll probably work on it whenever I feel like it.
+
+**It would be great if you left a star! It would help with motivation.**
 
 [![Greasyfork](https://img.shields.io/greasyfork/dt/457594?color=blue&label=greasyfork%20install&style=for-the-badge)](https://greasyfork.org/en/scripts/457594/) [![Github](https://img.shields.io/github/downloads/nonumbershere/TusDino/tusdino/total?color=blue&label=github&style=for-the-badge)](https://github.com/nonumbershere/TusDino/releases/latest)
 
@@ -26,41 +28,70 @@ TusDino is an advanced userscript chrome dino cheat that works on almost any din
 - [Twitter](https://twitter.com/LapideDev)
 - [YouTube](https://www.youtube.com/watch?v=ZdfO_ocV8PI)
 
-## Features (20+)
-- Kill Player [PLAYER]
-- Autoplayer [PLAYER]
-- Set Gravity [PLAYER]
-- Set Score [GAME]
-- No Clip [GAME]
-- Set Score Speed [GAME]
-- Set Ground Y [GAME]
-- Set Speed [MOVEMENT]
-- Fly [MOVEMENT]
-- High Jump [MOVEMENT]
-- Fast Fall [MOVEMENT]
-- Walk [MOVEMENT]
-- Set Walk Speed [MOVEMENT]
-- Set Fly Speed [MOVEMENT]
-- Blocky Jump [MOVEMENT]
-- Airjump [MOVEMENT]
-- ESP [VISUALS]
-- Tracers [VISUALS]
-- Jump Notifier [VISUALS]
-- Watermark [VISUALS]
-- Add Cloud [VISUALS]
-- Remove Cloud [VISUALS]
-- Remove All Clouds [VISUALS]
-- Remove Near Obstacles [VISUALS]
-- Remove Obstacle [VISUALS]
-- Add Obstacle [VISUALS]
-- Rainbow Background [OTHER]
-- Storm Cloud [OTHER]
+## Features 1.15.1 (40+ Cheats)
+- Player Tab
+  - Invisibility
+  - Teleport X axis 
+  - Teleport Y axis
+  - Kill Player
+  - Autoplayer
+  - Set Gravity 
+  - Set Skin
+- Game Tab
+  - Set Game Speed
+  - Obstacle Float
+  - Duck and Jump
+  - Playing Intro
+  - Set Score
+  - Lazer Vision Key (L)
+  - No Obstacle
+  - Lazer Vision
+  - Mute Game
+  - Force Pause Game
+  - Pause
+  - Restart
+  - No Clip
+  - Obliterate Obstacles
+  - Set Score Speed
+  - Add Cloud
+  - Remove Cloud
+  - Remove All Clouds
+  - Remove Near Obstacles
+  - Remove Obstacle
+  - Add Obstacle
+  - Set Ground Y
+- Movement Tab
+  - Set Speed
+  - Fly
+  - High Jump
+  - Fast Fall
+  - Walk
+  - Obstacle Bypass
+  - Set Walk Speed
+  - Set Fly Speed
+  - Blocky Jump
+  - Airjump
+- Visuals Tab
+  - ESP
+  - Tracers
+  - Glow
+  - Rainbow Glow
+  - Jump Notifier
+  - Watermark
+  - Obstacle ESP
+- Misc Tab
+  - Rainbow Background
+  - Rainbow Square Player
+  - Storm Cloud
 
-*Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
+*I tried to add as much features as I can on 1.15.1, I ran out of Ideas, if you have an idea Request a feature on the [Discord](https://discord.gg/6eaDrx5J9s)*
 
 ## Images
-![image](https://user-images.githubusercontent.com/64395933/210477235-5be83869-e9be-4743-9b5d-7aa93a66fc6f.png)
-![image](https://user-images.githubusercontent.com/64395933/210477245-68cdb10d-67ee-4d19-bf10-722bc8d42274.png)
-![image](https://user-images.githubusercontent.com/64395933/210477264-9107f3c5-b1ee-40c8-ba1b-54704a8d26d7.png)
-![image](https://user-images.githubusercontent.com/64395933/210477280-9036f7b3-7bcf-40f1-88b8-4edbad1eba95.png)
-![image](https://user-images.githubusercontent.com/64395933/210477293-9212abd5-cfec-4842-baf5-84b6b1519bc2.png)
+![image](https://user-images.githubusercontent.com/64395933/210926671-344bb9af-93d0-4969-bd54-b354028e78b6.png)
+![image](https://user-images.githubusercontent.com/64395933/210926683-cea75595-8889-4852-bf14-ebe7ae5840de.png)
+![image](https://user-images.githubusercontent.com/64395933/210926697-73db4405-5dd3-4f68-b286-51a44ae56f7e.png)
+![image](https://user-images.githubusercontent.com/64395933/210926703-bdedbca9-59f7-407c-9683-0aa8f9633ee5.png)
+![image](https://user-images.githubusercontent.com/64395933/210926710-55f6f022-25b3-45a6-8be1-1f95f7f7f510.png)
+![image](https://user-images.githubusercontent.com/64395933/210926763-c6a27928-b3ba-47e7-a0e7-0a052e423575.png)
+
+
