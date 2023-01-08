@@ -1,1 +1,1 @@
-# Moved to https://github.com/Case-Clicker-2-Utilities/TusDino-Chrome-Dino-Mod-Menu/
+# Moved to https://github.com/Fault-Utilities/TusDino-Chrome-Dino-Mod-Menu/
